@@ -136,8 +136,8 @@ Este guia reúne desde os conceitos básicos até recursos avançados utilizados
 
 ## 🧠 Autor
 **Seu Nome**  
-📧 [seu-email@email.com]  
-🌐 [seu-linkedin-ou-site]  
+📧 diegocardosoengenharia@gmail.com  
+🌐 dpaiane.  
 
 ---
 
