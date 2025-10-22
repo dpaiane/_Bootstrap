@@ -1,0 +1,27 @@
+.bg-primary {
+    background-color: #fdc800 !important;
+}
+
+.bg-light {
+    background-color: #f0f4f9 !important;
+}
+
+.btn-primary {
+    background-color: #fdc800 !important;
+    border: 1px #fdc800 solid !important;
+}
+
+.btn-primary:hover {
+    background-color: #fdc800 !important;
+    border: 1px #002147 solid !important;
+    color: #002147
+}
+
+.btn-info {
+    background-color: white;
+}
+
+.btn-info:hover {
+    border: 1px solid #002147 !important;
+    background-color: white;
+}
